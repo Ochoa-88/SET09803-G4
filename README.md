@@ -1,6 +1,6 @@
-#This the repository for SET09803 DevOps
+# This the repository for SET09803 DevOps
 
-##Group Members:
+## Group Members:
 John Chimezie
 
 Angel Ochoa
